@@ -1,1 +1,0 @@
-#kopiokansio commit
