@@ -13,7 +13,7 @@ class Varasto:
         # täyteen ja ylimäärä hukkaan!
         return self.tilavuus
 
-    # huom: ominaisuus voidaan myös laskea. Random kirjaimia jotta rivin pituus kasvaa osoittaakseni että githubissa tulee virhemerkintä pylinty src actionissa
+    # huom: ominaisuus voidaan myös laskea.
     def paljonko_mahtuu(self):
         return self.tilavuus - self.saldo
 
